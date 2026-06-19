@@ -4,16 +4,6 @@ My name is Muh Irham Praditya and I'm a engineering computer student
 
 ---
 
-## 🧑‍💻 About Me
-
-- ✨ I love exploring technology since I was a kid  
-- 💻 Currently learning: C++, Laravel, Arduino, and Web Development  
-- 🎯 Goals: Become a professional UI/UX  
-- 💡 Fun fact: I learn fast when it's something I like  
-- 🚀 I enjoy building projects like IoT systems, web apps, and school assignments  
-
----
-
 ## 🛠 What I Use
 
 <p>
