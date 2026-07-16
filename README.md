@@ -1,6 +1,6 @@
-# Hey 👋 What's up?
+# What's up?
 
-My name is Muh Irham Praditya and I'm a engineering computer student
+I'm a engineering computer student
 
 ---
 
