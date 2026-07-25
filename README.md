@@ -47,5 +47,3 @@ I'm a engineering computer student
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irhmmm&layout=compact&theme=tokyonight" />
 </p>
-
----
